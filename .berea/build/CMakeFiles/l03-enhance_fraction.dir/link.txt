@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/l03-enhance_fraction.dir/home/runner/cpp-overflow-jp/main.cpp.o  -o l03-enhance_fraction -lpthread /usr/lib/x86_64-linux-gnu/libSM.so /usr/lib/x86_64-linux-gnu/libICE.so /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
